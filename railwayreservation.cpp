@@ -1,14 +1,15 @@
- CODE 
+ //CODE 
 //PROGRAM FOR RAILWAY RESERVATION
 //MADE BY LAKSHITA
 
-#include<iostream.h>
-#include<conio.h>
+#include<iostream>
+using namespace std;
+
 #include<stdlib.h>
 #include<stdio.h>
-#include<fstream.h>
-#include<iomanip.h>
-#include<string.h>
+#include<fstream>
+#include<iomanip>
+#include<string>
 class train
 
 {
@@ -29,7 +30,7 @@ class train
     public:
     void trave()
     {
-    strcpy(tname,"NULL");
+     strcpy(tname,"NULL");
     strcpy(bp,"NULL");
     strcpy(dest,"NULL");
     card=0;
@@ -602,7 +603,7 @@ break;
 
 }
 fio.close();
-getch();
+
 }
 
 
