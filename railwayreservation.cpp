@@ -323,7 +323,7 @@ switch(ch)
  cout<<"\n";
  cout<<setw(50)<<" 2. SHATABDI TRAINS                           ";
  cout<<"\n";
- cout<<setw(50)<<" 3. YUVA/ GARIBATH                            ";
+ cout<<setw(50)<<" 3. YUVA/ GARIBRATH                            ";
  cout<<"\n";
  cout<<setw(50)<<" 4. DURONTO                                   ";
  cout<<"\n";
@@ -342,7 +342,7 @@ switch(ch)
    cout<<"\n";
    cout<<" 12303                Jammu RAJDHANI         New delhi-Jammu tawi            "<<"\n";
    cout<<"\n";
-   cout<<" 12304                ChennaiRADJDHANI       Chennai central - Hnizamuddin   "<<"\n";
+   cout<<" 12304                Chennai RADJDHANI       Chennai central - Hnizamuddin   "<<"\n";
    cout<<"\n";
    cout<<" 12305                Bilasur RAJDHANI       bilaspur-New delhi              "<<"\n";
    cout<<"\n";
